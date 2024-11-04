@@ -1,4 +1,4 @@
-# golang-bookstore
+# Bookstore
 
 ## Routes
 

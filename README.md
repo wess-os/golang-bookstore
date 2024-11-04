@@ -15,8 +15,7 @@ http://localhost:9010/
 | DELETE | /book/{bookId} | Delete a book by id |
 
 ## Configuration
-1.
-    - Change the database configuration in the file `pkg/config/app.go`
+- Change the database configuration in the file `pkg/config/app.go`
 
 ## Run
 1.
